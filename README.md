@@ -1,2 +1,21 @@
-# Reester-Website
-A simple and responsive register page built using HTML and CSS. Features a clean layout with a user-friendly design, ideal for learning or integrating into small web projects.
+Reester website
+
+Reester Portfolio is a simple and visually appealing food-themed website built as part of a front-end development portfolio. This project showcases a clean user interface for a fictional food brand named Reestar, featuring popular dishes and a contact form.
+
+🔍 Features
+
+🍜 Responsive food menu cards (Fried Rice, Chicken Noodles, Ramen, Momos)
+
+🧾 Clean layout and modern color scheme
+
+📱 Mobile-friendly design
+
+📬 Contact form with fields for Name, Age, and Email
+
+🔘 Order buttons for each dish (UI-based functional
+
+🛠️ Built With
+
+HTML5
+
+CSS3# Reester-portfolio-website.
